@@ -12,14 +12,15 @@ body{
 }
 
 h1{
-    color: aqua;
+    color: rgb(44, 230, 230);
     text-align: center;
     margin-top: 500px;
+   
 }
 
 #fortune{
-    color: aqua;
-    font-size: 24px;
+    color:antiquewhite;
+    font-size: 30px;
     text-align: center;
 }
 
@@ -34,6 +35,6 @@ h1{
     background: white;
     border: 5px solid #D0104C;
     border-radius: 5px;
-    color: #141c3a;
+    color:black;
     cursor: pointer;
 }
