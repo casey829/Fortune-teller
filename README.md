@@ -3,7 +3,7 @@
 #### By casey mwangi
 
 ## Description
-This is an online order pizza  application that enables customers to order any type of pizza with a touch of a button and is delivered at their doorstep.
+This is an online fortune telling application that "predicct's" your future.
 
 ## Technologies Used
 
